@@ -53,6 +53,8 @@ p {
 
 /* تنسيق الروابط */
 a {
+    font-weight: bold;
+    font-size: 18px;
     color: #3498db;
     text-decoration: none;
     font-weight: bold;
